@@ -1,0 +1,365 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{865B8E5E-3D7F-46F6-BE16-A078A0652512}|TravelGuiderLibrary\\TravelGuiderLibrary.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\travelguiderlibrary\\locationlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865B8E5E-3D7F-46F6-BE16-A078A0652512}|TravelGuiderLibrary\\TravelGuiderLibrary.csproj|solutionrelative:travelguiderlibrary\\locationlinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\addlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\addlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\traveler_ui\\addlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\addlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\traveler_ui\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\traveler_ui\\locationdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\locationdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\locationdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\locationdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\getlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\getlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\traveler_ui\\getlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\getlocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\globalvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\globalvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865B8E5E-3D7F-46F6-BE16-A078A0652512}|TravelGuiderLibrary\\TravelGuiderLibrary.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\travelguiderlibrary\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865B8E5E-3D7F-46F6-BE16-A078A0652512}|TravelGuiderLibrary\\TravelGuiderLibrary.csproj|solutionrelative:travelguiderlibrary\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\traveler_ui\\planeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\planeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\getlocation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\getlocation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865B8E5E-3D7F-46F6-BE16-A078A0652512}|TravelGuiderLibrary\\TravelGuiderLibrary.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\travelguiderlibrary\\travelguiderlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{865B8E5E-3D7F-46F6-BE16-A078A0652512}|TravelGuiderLibrary\\TravelGuiderLibrary.csproj|solutionrelative:travelguiderlibrary\\travelguiderlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\locationdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\locationdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\planeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\planeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\planeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\planeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\traveler_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\traveler_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\addlocation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\addlocation.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|c:\\users\\keshika - 0775486995\\source\\repos\\travelguidersys\\traveler_ui\\dashbord.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EEBE8D-1423-4AFA-8E2A-7831802AF130}|Traveler_UI\\Traveler_UI.csproj|solutionrelative:traveler_ui\\dashbord.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashbord.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\Dashbord.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\Dashbord.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\Dashbord.cs",
+              "RelativeToolTip": "Traveler_UI\\Dashbord.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:57:14.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addLocation.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\addLocation.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\addLocation.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\addLocation.cs",
+              "RelativeToolTip": "Traveler_UI\\addLocation.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:45:56.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocationLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\TravelGuiderLibrary\\LocationLinkedList.cs",
+              "RelativeDocumentMoniker": "TravelGuiderLibrary\\LocationLinkedList.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\TravelGuiderLibrary\\LocationLinkedList.cs",
+              "RelativeToolTip": "TravelGuiderLibrary\\LocationLinkedList.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAUwBgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:52:41.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocationDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\LocationDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\LocationDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\LocationDetailsForm.Designer.cs",
+              "RelativeToolTip": "Traveler_UI\\LocationDetailsForm.Designer.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAtwKkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:45:49.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "getLocation.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\getLocation.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\getLocation.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\getLocation.cs",
+              "RelativeToolTip": "Traveler_UI\\getLocation.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T07:11:18.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "globalvars.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\globalvars.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\globalvars.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\globalvars.cs",
+              "RelativeToolTip": "Traveler_UI\\globalvars.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGkAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:58:06.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LocationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\TravelGuiderLibrary\\LocationModel.cs",
+              "RelativeDocumentMoniker": "TravelGuiderLibrary\\LocationModel.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\TravelGuiderLibrary\\LocationModel.cs",
+              "RelativeToolTip": "TravelGuiderLibrary\\LocationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:29:39.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "getLocation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\getLocation.Designer.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\getLocation.Designer.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\getLocation.Designer.cs",
+              "RelativeToolTip": "Traveler_UI\\getLocation.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T07:11:54.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\Program.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\Program.cs",
+              "RelativeToolTip": "Traveler_UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:04:46.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TravelGuiderLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\TravelGuiderLibrary\\TravelGuiderLibrary.csproj",
+              "RelativeDocumentMoniker": "TravelGuiderLibrary\\TravelGuiderLibrary.csproj",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\TravelGuiderLibrary\\TravelGuiderLibrary.csproj",
+              "RelativeToolTip": "TravelGuiderLibrary\\TravelGuiderLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T03:52:38.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlaneForm.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\PlaneForm.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\PlaneForm.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\PlaneForm.cs",
+              "RelativeToolTip": "Traveler_UI\\PlaneForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:20:45.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LocationDetailsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\LocationDetailsForm.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\LocationDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\LocationDetailsForm.cs",
+              "RelativeToolTip": "Traveler_UI\\LocationDetailsForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:48:50.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlaneForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\PlaneForm.Designer.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\PlaneForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\PlaneForm.Designer.cs",
+              "RelativeToolTip": "Traveler_UI\\PlaneForm.Designer.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAtwM4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:21:13.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Traveler_UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\Traveler_UI.csproj",
+              "RelativeDocumentMoniker": "Traveler_UI\\Traveler_UI.csproj",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\Traveler_UI.csproj",
+              "RelativeToolTip": "Traveler_UI\\Traveler_UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBSwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T11:57:42.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "addLocation.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\addLocation.Designer.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\addLocation.Designer.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\addLocation.Designer.cs",
+              "RelativeToolTip": "Traveler_UI\\addLocation.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T04:05:09.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Dashbord.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\Dashbord.Designer.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\Dashbord.Designer.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\Dashbord.Designer.cs",
+              "RelativeToolTip": "Traveler_UI\\Dashbord.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T06:27:01.34Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashbord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\Dashbord.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\Dashbord.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\Dashbord.cs [Design]",
+              "RelativeToolTip": "Traveler_UI\\Dashbord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T04:40:34.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addLocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\addLocation.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\addLocation.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\addLocation.cs [Design]",
+              "RelativeToolTip": "Traveler_UI\\addLocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:47:54.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocationDetailsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\LocationDetailsForm.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\LocationDetailsForm.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\LocationDetailsForm.cs [Design]",
+              "RelativeToolTip": "Traveler_UI\\LocationDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:45:12.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "getLocation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\getLocation.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\getLocation.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\getLocation.cs [Design]",
+              "RelativeToolTip": "Traveler_UI\\getLocation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:16:37.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlaneForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\PlaneForm.cs",
+              "RelativeDocumentMoniker": "Traveler_UI\\PlaneForm.cs",
+              "ToolTip": "C:\\Users\\Keshika - 0775486995\\source\\repos\\TravelGuiderSys\\Traveler_UI\\PlaneForm.cs [Design]",
+              "RelativeToolTip": "Traveler_UI\\PlaneForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:07:18.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

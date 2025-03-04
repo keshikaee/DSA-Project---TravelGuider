@@ -1,0 +1,11 @@
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\bin\Debug\net6.0\TravelGuiderLibrary.deps.json
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\bin\Debug\net6.0\TravelGuiderLibrary.dll
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\bin\Debug\net6.0\TravelGuiderLibrary.pdb
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\obj\Debug\net6.0\TravelGuiderLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\obj\Debug\net6.0\TravelGuiderLibrary.AssemblyInfoInputs.cache
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\obj\Debug\net6.0\TravelGuiderLibrary.AssemblyInfo.cs
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\obj\Debug\net6.0\TravelGuiderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\obj\Debug\net6.0\TravelGuiderLibrary.dll
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\obj\Debug\net6.0\refint\TravelGuiderLibrary.dll
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\obj\Debug\net6.0\TravelGuiderLibrary.pdb
+C:\Users\Keshika - 0775486995\source\repos\TravelGuiderSys\TravelGuiderLibrary\obj\Debug\net6.0\ref\TravelGuiderLibrary.dll
